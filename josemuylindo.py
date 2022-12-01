@@ -19,3 +19,7 @@ for i in range(m):
 
 # creo que eso sirve un poco. Para lo de el número entero que define la matriz cuadrada
 # mejor aca?
+# me parece a mí
+# O quiere por WhatsApp
+# Por acá se gasta más tiempo por los push
+
