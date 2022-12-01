@@ -22,4 +22,6 @@ for i in range(m):
 # me parece a mí
 # O quiere por WhatsApp
 # Por acá se gasta más tiempo por los push
+# lo que sumerce me diga jjajajja
+# tu diras 
 
